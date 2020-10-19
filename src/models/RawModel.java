@@ -1,4 +1,4 @@
-package renderEngine;
+package models;
 
 public class RawModel {
 	
@@ -17,7 +17,5 @@ public class RawModel {
 	public int getVertexCount() {
 		return vertexCount;
 	}
-	
-	
 
 }
